@@ -12,4 +12,4 @@ jobs:
           node-version: "20"
       - run: npm install -g bats
       - run: bats -v
-      - uses: trufflesecurity/trufflehog@v3.9.0
+    
